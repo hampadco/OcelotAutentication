@@ -1,0 +1,12 @@
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\bin\Debug\net7.0\JwtAutenticationManager.deps.json
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\bin\Debug\net7.0\JwtAutenticationManager.dll
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\bin\Debug\net7.0\JwtAutenticationManager.pdb
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.csproj.AssemblyReference.cache
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.AssemblyInfoInputs.cache
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.AssemblyInfo.cs
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.dll
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\refint\JwtAutenticationManager.dll
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\JwtAutenticationManager.pdb
+C:\Users\Apple\Downloads\ocelot\AutenticationManager\JwtAutenticationManager\obj\Debug\net7.0\ref\JwtAutenticationManager.dll
